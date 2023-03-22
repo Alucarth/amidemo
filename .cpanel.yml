@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/credisur/public_html/
+    - export DEPLOYPATH=/home/experien/public_html/amidemo
     - /bin/cp -R . $DEPLOYPATH
